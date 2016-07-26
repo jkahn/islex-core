@@ -37,7 +37,7 @@ Features
   `islex-periphery`.
 
 Credits
----------
+-------
 
 Package author is `Jeremy G Kahn`_, repackaging the very useful `ISLE
 pronunciation lexicon`_ from the `Illinois Speech and Language
