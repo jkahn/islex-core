@@ -1,5 +1,11 @@
+# -*- coding: utf-8 -*-
+
 from islex.load import stream_from_fh
 from pkg_resources import resource_stream
+
+__author__ = 'Jeremy G. Kahn'
+__email__ = 'jeremy@trochee.net'
+__version__ = '0.1.0'
 
 def entries_stream():
     """Get an iterator over the entries. Useful for building a dictionary.
