@@ -9,6 +9,6 @@ Sphinx==1.4.8
 PyYAML==3.12
 pytest==3.0.3
 pytest-cov==2.4.0
-check-manifest==0.34
+check-manifest==0.41
 docutils==0.12
 wheel==0.29.0
