@@ -10,5 +10,5 @@ PyYAML==3.12
 pytest==3.0.3
 pytest-cov==2.4.0
 check-manifest==0.34
-docutils==0.12
+docutils==0.20
 wheel==0.29.0
